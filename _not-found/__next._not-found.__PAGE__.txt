@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-2:I[97367,["/_next/static/chunks/5755846c18ec1dfc.js","/_next/static/chunks/d2be314c3ece3fbe.js","/_next/static/chunks/621a718ec54ac511.js"],"OutletBoundary"]
+2:I[97367,["/_next/static/chunks/0w376sm~00mrs.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0~4b9gjn_2ki_.js"],"OutletBoundary"]
 3:"$Sreact.suspense"
-0:{"buildId":"n7Pa7MSiyPIX4BmR865DR","rsc":["$","$1","c",{"children":[["$","p",null,{"className":"text-2xl text-center mt-5","children":"404 - Page Not Found"}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
+0:{"rsc":["$","$1","c",{"children":[["$","p",null,{"className":"text-2xl text-center mt-5","children":"404 - Page Not Found"}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"kLq0Z2-_TqB7SKmO6NK4G"}
 4:null
