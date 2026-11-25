@@ -1,5 +1,0 @@
-:HL["/_next/static/chunks/3d4q99tr3z6vy.css","style"]
-:HL["/_next/static/media/07c7676b89ed2778-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/chunks/4453l3ts7i0um.css","style"]
-1:[["children",{"s":"__PAGE__","h":128}]]
-0:{"b":"1dS76rSENC05K0ZIznkiJ","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
